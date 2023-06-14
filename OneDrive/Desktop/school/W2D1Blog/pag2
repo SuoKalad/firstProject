@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Interesting Facts</h1>
+<p><a href="week2day1 blog"> Home </a><a href="pag2"> About me </a> <a href="page3">Contact me</a></p>
+<hr>
+<p>
+    <ul>
+        <li>I have a library named after me</li>
+        <li>I broke both wrists at the same time</li>
+        <li>I have visted over 35 countries</li>
+    </ul>
+</p>
+
+</body>
+</html>
